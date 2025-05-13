@@ -8,7 +8,7 @@ Exibir destinos turísticos com imagens, títulos, descrições e links, utiliza
 
 ## 🖼️ Preview
 
-![Preview do projeto](images/paris.jpg)
+![Preview do projeto](images/projetoturistico.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
